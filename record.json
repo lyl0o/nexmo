@@ -1,0 +1,18 @@
+[
+  {
+    "action": "record",
+    "eventUrl": ["https://requestb.in/1a1c0811"],
+    "endOnSilence": "3"
+  },
+  {
+    "action": "connect",
+    "eventUrl": ["https://requestb.in/1a1c0811"],
+    "from":"33644630896",
+    "endpoint": [
+      {
+        "type": "phone",
+        "number": "+14046206080"
+      }
+    ]
+  }
+]
